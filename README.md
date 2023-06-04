@@ -20,7 +20,7 @@ I am a ISO certified Data Analyst, Data Analyst. I help companies, businesses an
 
 - :seedling: Constantly Learning to Improve my Skills
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Ifediba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panshul-jaggi-176608274/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Panshul-Jaggi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panshul-jaggi-176608274/)
 
 ---
 
