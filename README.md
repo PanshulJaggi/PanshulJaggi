@@ -16,7 +16,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a ISO certified Data Analyst, Data Analyst. I help companies, businesses and stakeholders make data-driving decisions to drive business growth.
+I have completed Masters of Information Technology. 
+I am also a ISO certified Data Analyst.
 
 - :seedling: Constantly Learning to Improve my Skills
 
@@ -35,8 +36,6 @@ I am a ISO certified Data Analyst, Data Analyst. I help companies, businesses an
 
 ---
 </div>
-
----
 
 
 
